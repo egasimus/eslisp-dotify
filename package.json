@@ -1,0 +1,26 @@
+{
+  "name": "eslisp-dotify",
+  "version": "0.1.0",
+  "description": "implements shorthands for attribute access and method call",
+  "main": "index.js",
+  "keywords": [
+    "eslisp-macro"
+  ],
+  "repository": "egasimus/eslisp-dotify",
+  "scripts": {
+    "test": "make test",
+    "prepublish": "make"
+  },
+  "files": [
+    "index.js"
+  ],
+  "author": "Adam Avramov <fallenblood@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslisp": "^0.7.0"
+  },
+  "peerDependencies": {
+    "eslisp": "0.7.x"
+  },
+  "dependencies": {}
+}
