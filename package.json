@@ -1,6 +1,6 @@
 {
   "name": "eslisp-dotify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "implements shorthands for attribute access and method call",
   "main": "index.js",
   "keywords": [ "eslisp-macro" ],
