@@ -1,7 +1,12 @@
 # eslisp-dotify
 
-Transform macro that implements Clojure-like syntax for property access and
-method calls in Eslisp. Complements [eslisp-propertify](https://github.com/anko/eslisp-propertify).
+Transform macro for [Eslisp](https://github.com/anko/eslisp). Implements a
+shorthand syntax for property access and method calls, similar to the
+corresponding features in [Clojure](http://clojure.org/java_interop#dot)
+or [Wisp](github.com/gozala/wisp). Nicely complements [eslisp-propertify](https://github.com/anko/eslisp-propertify).
+
+[![NPM](https://img.shields.io/npm/v/eslisp-dotify.svg)](https://www.npmjs.com/package/eslisp-dotify)
+[![Gitter](https://img.shields.io/badge/chat-gitter_%E2%86%92-blue.svg)](https://gitter.im/anko/eslisp)
 
 ## Examples
 
